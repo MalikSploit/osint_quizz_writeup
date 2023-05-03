@@ -43,7 +43,7 @@ function App() {
             </Container>
             <footer className="mt-5 py-3">
                 <p className="text-center">
-                    Created by [Malik Makkes] - [maksucce@gmail.com]
+                    Created by [Malik Makkes] - [OSINT Enthusiast]
                 </p>
             </footer>
         </div>

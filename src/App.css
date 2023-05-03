@@ -42,5 +42,5 @@
   flex-direction: column;
   align-items: center;
   justify-content: space-between;
-  height: 100px; /* Change this to the desired height of your header box */
+  height: 100px;
 }
